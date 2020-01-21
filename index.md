@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects and Marketing Content 
 
 [Project 1 Title](/sample_page)
 <img src="">
