@@ -1,7 +1,5 @@
 ## Portfolio
 
----
-
 ### Projects and Marketing Content 
 
 [Project 1 Title](/sample_page)
