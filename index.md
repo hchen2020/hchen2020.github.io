@@ -11,6 +11,9 @@
 [Taste of China Facebook Content](/sample_page)
 <img src="">
 ---
+
+<br>
+
 [SenLinHu Blog & Facebook Content](http://example.com/)
 <img src="">
 
