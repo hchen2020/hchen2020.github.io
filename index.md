@@ -1,14 +1,15 @@
 ## Portfolio
 
-### Projects & Marketing Content 
-
-[Taste of China Facebook Content](/sample_page)
-<img src="">
-
+### Projects
 ---
 [YumCoin App](/pdf/sample_presentation.pdf)
 <img src="">
 
+### Marketing Content
+
+---
+[Taste of China Facebook Content](/sample_page)
+<img src="">
 ---
 [SenLinHu Blog & Facebook Content](http://example.com/)
 <img src="">
