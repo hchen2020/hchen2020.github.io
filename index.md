@@ -14,7 +14,7 @@
 
 <br>
 
-[SenLinHu Facebook Content](http://example.com/)
+[SenLinHu Facebook Content](/pdf/slh_facebook_content.pdf)
 <img src="">
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
