@@ -5,7 +5,7 @@
 [YumCoin App](/pdf/sample_presentation.pdf)
 <img src="">
 
-### Marketing Content
+### Content Marketing
 
 ---
 [Taste of China Facebook Content](/sample_page)
