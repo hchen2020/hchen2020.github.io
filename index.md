@@ -9,13 +9,12 @@
 
 ---
 [Taste of China (Facebook)](/pdf/toc_facebook_content.pdf)
-<img src="toc_facebook_content.pdf">
----
+<href="toc_facebook_content.pdf">
 
 <br>
 
 [SenLinHu (Facebook)](/pdf/slh_facebook_content.pdf)
-<img src="slh_facebook_content.pdf">
+<href="slh_facebook_content.pdf">
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
