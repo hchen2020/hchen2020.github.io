@@ -8,7 +8,8 @@
 ### Content Marketing
 
 ---
-[Taste of China (Facebook)] (/pdf/toc_facebook_content.pdf)
+
+<a href="toc_facebook_content.pdf">Taste of China Restaurant</a>
 
 <br>
 
