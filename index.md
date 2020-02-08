@@ -14,7 +14,7 @@
 
 <br>
 
-[SenLinHu Blog & Facebook Content](http://example.com/)
+[SenLinHu Facebook Content](http://example.com/)
 <img src="">
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
