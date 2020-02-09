@@ -1,7 +1,6 @@
 ## Portfolio
 
-### Content Marketing
-
+### Digital Content
 ---
 
 <a href="./pdf/toc_facebook_content.pdf">Taste of China Restaurant (Facebook)</a>
