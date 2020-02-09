@@ -9,7 +9,7 @@
 
 ---
 
-<a href="./pdf/toc_facebook_content.pdf">Taste of China Restaurant</a>
+<a href="./pdf/toc_facebook_content.pdf">Taste of China Restaurant (Facebook)</a>
 
 <br>
 
