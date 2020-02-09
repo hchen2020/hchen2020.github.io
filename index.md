@@ -1,10 +1,5 @@
 ## Portfolio
 
-### Projects
----
-[YumCoin App](/pdf/sample_presentation.pdf)
-<img src="">
-
 ### Content Marketing
 
 ---
